@@ -3,18 +3,18 @@
 Overview
 This project aims to predict the quality of wine based on physicochemical properties, using various machine learning techniques. By leveraging the Wine Quality dataset, we explore models including Logistic Regression, Decision Trees, and Support Vector Machines (SVM) to accurately classify wine quality, providing a framework for enhanced decision-making in the wine industry. Through a structured pipeline—data cleaning, exploratory data analysis, feature engineering, model training, and hyperparameter tuning—we achieved notable results that showcase the potential of machine learning for quality assessment.
 
-Table of Contents
-Dataset
-Project Structure
-Installation
-Data Preprocessing
-Exploratory Data Analysis
-Model Training and Evaluation
-Results
-Conclusion
-Google Colab Notebook
-Contributors
-Dataset
+1.Table of Contents
+2.Dataset
+3.Project Structure
+4.Installation
+5.Data Preprocessing
+6.Exploratory Data Analysis
+7.Model Training and Evaluation
+8.Results
+9.Conclusion
+10.Google Colab Notebook
+11.Contributors
+12.Dataset
 The dataset used for this project is the Wine Quality dataset, which is publicly available from the UCI Machine Learning Repository. It contains various physicochemical properties of red and white wines, including:
 
 Fixed Acidity
